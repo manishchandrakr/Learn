@@ -16,4 +16,4 @@ OzCode : Debugging extension for Visual Studio.
 PhantomJs - 
 
 Durandal : A Lightweight JavaScript framework designed to make building Single Page Applications (SPAs) simple and elegant.
-           See for more detail
+           See for more detail http://www.infoq.com/articles/durandal-javascript-framework
