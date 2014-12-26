@@ -1,0 +1,22 @@
+Secret of Javascript - Ninja
+
+
+RIA :  HTML generation happens in client side.
+
+
+keep the view as dump as possible
+view should only reactive
+
+Addy Osmani - A journey through javascript jungle.
+
+Angular Main Components
+
+1. Module
+2.Controller
+3.Directive 
+4.Filter
+5.Factory
+6.Service
+7.Provider
+8.Value
+9.Constant
