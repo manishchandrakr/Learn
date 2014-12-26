@@ -13,9 +13,11 @@ Angular Main Components
 
 1. Module
 2.Controller
-3.Directive 
-4.Filter
-5.Factory
+3.Directive -- extend the html functionality.
+4.Filter - modify and command the html.
+
+//  Below mentioned components are used for interact with server and modify the view.
+5.Factory - 
 6.Service
 7.Provider
 8.Value
