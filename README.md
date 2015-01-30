@@ -1,6 +1,8 @@
 Learn
 =====
 
+https://gist.github.com/ericelliott/d576f72441fc1b27dace
+
 Learning about new technologies related to Web and Mobile.
 
 Listed Some Latest Tools and Tecehnologies.
@@ -28,4 +30,6 @@ Electric Plum: iPhone and iPad Simulators for Windows. Can integrate with VS 201
 Grunt: In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it, a task runner can do most of that mundane work for you—and your team—with basically zero effort.
 
 Bower: Bower is a package manager for the web. It offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.
+
+
 
